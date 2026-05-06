@@ -9,43 +9,26 @@
 
 ## 👩‍💼 About Me
 
-Development professional with 2+ years of experience across 
-multilateral organisations including the **Green Climate Fund** 
-and **UNDP**, specialising in climate finance, gender equity, 
-and data-driven policy research.
+Development researcher with 2+ years of experience across multilateral organisations, including the **Green Climate Fund** and **UNDP**, specialising in climate finance, gender, and development economics.My work applies panel econometrics and cross-country quantitative analysis to examine climate vulnerability, aid effectiveness, and inequality across developing and fragile contexts. I have experience working with large-scale, multi-country datasets and using tools such as R, Stata, and Power BI to produce empirical, policy-relevant research.
 
-- 🌍 Currently researching **climate finance gaps, governance 
-  failures & community resilience in fragile and conflict-affected 
-  states (FCS)**
-- 🔎 Examining **climate finance integrity** — how aid is allocated, 
-  tracked, and whether it reaches the most vulnerable
-- 📊 Building panel datasets to link **aid flows, fragility & 
-  human outcomes** across 180+ countries
-- 🎓 MDP Graduate — **KDI School of Public Policy** (Dean's List, 
-  Top 10%)
-- 🌱 Co-Founder of **Baqaa** — addressing period poverty & 
-  climate hygiene risks in flood-affected Pakistan
+## 💼 Current Work
+
+- 🔬 **Independent Research** — Leading a portfolio of cross-country quantitative research on climate change and development, applying panel econometrics, statistical analysis, and data visualization (R, Stata, Power BI). My work spans multiple large-scale projects, including analysis of CO₂ emissions, heat-related mortality, and regional disparities; aid composition and female education outcomes (52 countries); World Bank financing trends and risk patterns (1995–2024); climate vulnerability and gender inequality; foreign aid, public spending, and literacy outcomes (30 countries); climate-induced disasters and internal displacement (180+ countries); and climate finance allocation to fragile and conflict-affected states (117 countries).
+
+Across these projects, I integrate multi-country datasets to generate policy-relevant insights on climate resilience, governance, inequality, and development effectiveness
+
+- 📝 **UNDP Myanmar** — Contributing to social media and communications for resilience and recovery campaigns, supporting outreach and public engagement (Aug–Dec 2025)
+- 🌸 **Baqaa (Co-Founder)** — Leading a community initiative addressing period poverty and climate-related hygiene risks in flood-affected regions of Pakistan
 
 ---
 
 ## 🔧 Tools & Skills
 `Stata` `R` `Python` `Power BI` `Tableau` `SPSS`
 **Methods:** Fixed Effects · DiD · ARDL · Panel Econometrics · M&E  
-**Domains:** Climate Finance · Foreign Aid · Fragility · Gender · 
-Development Policy · Climate Integrity
-
----
-
-## 💼 Current Work
-
-- 🔬 **Independent Research** — Panel analysis of climate finance 
-  gaps across fragile and conflict-affected states (FCS), examining 
-  governance gaps, climate finance integrity, and community 
-  resilience in the FCS region
-- 📝 **UNDP Myanmar** — Social media & communications contributor, 
-  resilience & recovery campaign (Aug–Dec 2025)
-- 🌸 **Baqaa (Co-Founder)** — Community programme on period poverty 
-  & climate-related hygiene risks in flood-affected Pakistan
+**Domains:** Climate Finance · Climate Integrity · Foreign Aid 
+Effectiveness · Fragility & Conflict · Gender & Social Equity · 
+Education Policy · Health Systems · Urban & Community Resilience · 
+Development Finance · Humanitarian Policy 
 
 ---
 
