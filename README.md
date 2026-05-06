@@ -46,7 +46,7 @@ Development professional focused on climate adaptation, governance, gender equit
 | [Climate-Vulnerability-Gender](https://github.com/rubabfatima986-svg/Climate-Vulnerability-Gender-Analysis) | Climate stress & gender inequality across countries | R |
 | [Female-Literacy-Aid-Analysis](https://github.com/rubabfatima986-svg/female-literacy-aid-analysis) | Foreign aid, spending & literacy rates across 30 countries | R |
 [Climate-Migration-Analysis](https://github.com/rubabfatima986-svg/climate-migration-analysis) | Climate disasters & internal displacement across 180+ countries | R
-[Climate-Migration-Analysis](https://github.com/rubabfatima986-svg/Climate-Migration-Analysis)
+[Climate-Finance-Fragility](https://github.com/rubabfatima986-svg/climate-finance-fragility) | Climate aid flows to fragile states across 117 countries | R 
 ---
 
 <div align="center">
