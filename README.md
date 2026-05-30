@@ -13,7 +13,7 @@ Development researcher with 2+ years of experience across multilateral organisat
 
 ## 💼 Current Work
 
-- 🔬 **Independent Research** — I am independently conducting a portfolio of cross-country quantitative research on climate change and development, applying panel econometrics, statistical analysis, and data visualization using R, Stata, and Power BI. My work focuses on generating policy-relevant insights on climate vulnerability, development finance, inequality, and resilience across diverse developing and fragile contexts using large-scale, multi-country datasets.
+- 🔬 **Independent Researcher** — I am independently conducting a portfolio of cross-country quantitative research on climate change and development, applying panel econometrics, statistical analysis, and data visualization using R, Stata, and Power BI. My work focuses on generating policy-relevant insights on climate vulnerability, development finance, inequality, and resilience across diverse developing and fragile contexts using large-scale, multi-country datasets.
 ---
 
 ## 🔧 Tools & Skills
