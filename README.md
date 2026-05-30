@@ -13,13 +13,7 @@ Development researcher with 2+ years of experience across multilateral organisat
 
 ## 💼 Current Work
 
-- 🔬 **Independent Research** — Leading a portfolio of cross-country quantitative research on climate change and development, applying panel econometrics, statistical analysis, and data visualization (R, Stata, Power BI). My work spans multiple large-scale projects, including analysis of CO₂ emissions, heat-related mortality, and regional disparities; aid composition and female education outcomes (52 countries); World Bank financing trends and risk patterns (1995–2024); climate vulnerability and gender inequality; foreign aid, public spending, and literacy outcomes (30 countries); climate-induced disasters and internal displacement (180+ countries); and climate finance allocation to fragile and conflict-affected states (117 countries).
-
-Across these projects, I integrate multi-country datasets to generate policy-relevant insights on climate resilience, governance, inequality, and development effectiveness
-
-- 📝 **UNDP Myanmar** — Contributing to social media and communications for resilience and recovery campaigns, supporting outreach and public engagement (Aug–Dec 2025)
-- 🌸 **Baqaa (Co-Founder)** — Leading a community initiative addressing period poverty and climate-related hygiene risks in flood-affected regions of Pakistan
-
+- 🔬 **Independent Research** — I am independently conducting a portfolio of cross-country quantitative research on climate change and development, applying panel econometrics, statistical analysis, and data visualization using R, Stata, and Power BI. My work focuses on generating policy-relevant insights on climate vulnerability, development finance, inequality, and resilience across diverse developing and fragile contexts using large-scale, multi-country datasets.
 ---
 
 ## 🔧 Tools & Skills
